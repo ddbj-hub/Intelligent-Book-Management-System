@@ -6,7 +6,6 @@ import java.io.*;
 import java.net.Socket;
 import java.util.Scanner;
 
-import static com.AVALONLibrary.Main.*;
 import static com.AVALONLibrary.server.Server.books;
 
 public class Client {
