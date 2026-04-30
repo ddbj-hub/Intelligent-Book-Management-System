@@ -128,7 +128,7 @@ public static boolean isAdmin = true;  // true = 管理员, false = 普通用户
 
 ## 📝 作者
 
-**AVALON**  
+**AVALON(肖jw)**  
 *2026-04-29*
 
 ---
