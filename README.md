@@ -92,13 +92,13 @@ java com.AVALONLibrary.client.Client
 |------|------|---------------------|
 | 1 | 退出系统 | `EXIT` |
 | 2 | 显示所有图书 | `LIST` |
-| 3 | 添加图书 | `ADD|书名|作者|ISBN` |
-| 4 | 删除图书 | `REMOVE|ISBN` |
-| 5 | 修改图书 | `REVISE|ISBN|新书名|新作者|新ISBN` |
-| 6 | 查询图书 | `QUERY|关键字` |
-| 7 | 借阅图书 | `BORROW|ISBN` |
-| 8 | 归还图书 | `RETURN|ISBN` |
-| 9 | 执行远程命令 | `REFLECT|类名|方法名` |
+| 3 | 添加图书 | `ADD`|`书名`|`作者`|`ISBN` |
+| 4 | 删除图书 | `REMOVE`|`ISBN` |
+| 5 | 修改图书 | `REVISE`|`ISBN`|`新书名`|`新作者`|`新ISBN` |
+| 6 | 查询图书 | `QUERY`|`关键字` |
+| 7 | 借阅图书 | `BORROW`|`ISBN` |
+| 8 | 归还图书 | `RETURN`|`ISBN` |
+| 9 | 执行远程命令 | `REFLECT`|`类名`|`方法名` |
 
 ### 管理员权限
 
